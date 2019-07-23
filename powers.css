@@ -1,0 +1,18 @@
+.disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: fuchsia;
+    color: goldenrod;
+}
+
+.taco {
+    background-color: darkgreen;
+    color: white
+}
+
+.butterfly {
+    background-color: crimson;
+    color: white;
+}
